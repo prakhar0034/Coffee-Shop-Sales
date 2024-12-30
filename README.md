@@ -7,31 +7,31 @@ This project is an interactive Excel dashboard that provides a comprehensive ana
 ## Features
 
 - **Total Sales and Footfall Overview:** 
-  - Displays total sales, total footfall, average bill per person, and average orders per person.
+  -Displays total sales, total footfall, average bill per person, and average orders per person.
   
 - **Time-Based Analysis:** 
-  - Quantity ordered distribution based on different hours of the day.
+  -Quantity ordered distribution based on different hours of the day.
   
 - **Category and Size Distribution:** 
-  - Insights into sales percentage by product categories.
-  - Breakdown of order sizes (Large, Regular, Small, etc.).
+  -Insights into sales percentage by product categories.
+  -Breakdown of order sizes (Large, Regular, Small, etc.).
 
 - **Store Performance:** 
-  - Footfall and sales comparison across multiple store locations.
+  -Footfall and sales comparison across multiple store locations.
   
 - **Top Products by Revenue:** 
-  - Highlights the top 5 products generating the most revenue.
+  -Highlights the top 5 products generating the most revenue.
 
 - **Weekday Orders:** 
-  - Visualization of order trends on different weekdays.
+  -Visualization of order trends on different weekdays.
 
 ## File Details
 
 1. `Coffee Shop Sales.xlsx`:
-   - The main Excel file containing the raw data and dashboard visualization.
+   -The main Excel file containing the raw data and dashboard visualization.
 
 2. `Coffee Shop Sales Dashboard.png`:
-   - Screenshot of the dashboard showcasing its design and functionality.
+   -Screenshot of the dashboard showcasing its design and functionality.
 
 ## Usage
 
